@@ -73,3 +73,4 @@ const quiz = [
     });
     answersIndex++;
   }
+  
